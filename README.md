@@ -1,6 +1,6 @@
 # ObzueAI Web
 
-Company name: **ObzueAI**.
+Company name: **ObzueAI** (ObzueAI Group; owner Roger Ifill, "Warrior" / "Obzue": Owner, CEO, CFO, COO, Chairman, President). Subsidiaries: ObzueAI Enterprise and WarriorLabs Machines.
 
 This repository is the web entity: the SI MemBrain site. Home, architecture, Matrix, Cortex, sandbox, community, live, gift store, investor desk, channel, and charter.
 
